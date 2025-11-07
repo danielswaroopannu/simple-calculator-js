@@ -36,3 +36,6 @@ simple-calculator/
 - Apply Tailwind CSS for styling
 ## Author
 Built by Daniel Swaroop Annu — UI developer pivoting to full-stack through hands-on learning.
+
+##Live demo 
+https://danielswaroopannu.github.io/simple-calculator-js/
